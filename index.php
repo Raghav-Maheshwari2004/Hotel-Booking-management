@@ -89,7 +89,7 @@
     <!-- Nearby Places Section -->
     <section id="nearby" class="info-section hidden">
     <section class="nearby-places">
-    <h2>Nearby Places to Visit</h2>
+    <h2>Nearby Landmarks</h2>
 
     <!-- Place 1: Temple -->
     <div class="place">
