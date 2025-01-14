@@ -18,7 +18,7 @@
             <button onclick="showSection('checkDetails')">Check Booking Details</button>
         </div>
     </header>
-      <!-- Background Video -->
+      <!-- Background Video ->
       <div class="video-background">
         <video autoplay loop muted>
             <source src="855139-hd_1920_1080_30fps.mp4" type="video/mp4">
